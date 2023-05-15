@@ -1,4 +1,4 @@
-# fraser-lab.github.io
+# mini-herpesvirus-workshop.github.io
 ====================
 
 Technologies this website uses:  
